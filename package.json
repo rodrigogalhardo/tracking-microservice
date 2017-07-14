@@ -1,0 +1,20 @@
+{
+  "name": "gprs-service",
+  "version": "1.0.0",
+  "description": "Sistema que recebe os dados do gps",
+  "main": "index.js",
+  "scripts": {
+    "start": " nodemon index.js "
+  },
+  "keywords": [
+    "nodejs",
+    "tk102",
+    "mongodb"
+  ],
+  "author": "Higor Diego",
+  "license": "ISC",
+  "dependencies": {
+    "gpstracker": "0.0.4",
+    "mongoose": "^4.8.5"
+  }
+}

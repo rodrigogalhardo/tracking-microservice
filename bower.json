@@ -1,0 +1,23 @@
+{
+  "name": "gprs-service",
+  "description": "Sistema que recebe os dados do gps",
+  "main": "index.js",
+  "authors": [
+    "Higor Diego"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "tk102",
+    "mongodb"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
